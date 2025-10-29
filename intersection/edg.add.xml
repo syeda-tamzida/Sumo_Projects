@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional>
+  <!-- Lane-level aggregation every 5 s -->
+  <laneData id="ld1"
+            file="C:/SUMO/mp_intersection/output/laneData.xml"
+            freq="5"
+            withInternal="true"
+            excludeEmpty="false"/>
+
+  <!-- Edge-level aggregation every 5 s (optional) -->
+  <edgeData id="ed1"
+            file="C:/SUMO/mp_intersection/output/edgeData.xml"
+            freq="5"
+            withInternal="true"
+            excludeEmpty="false"/>
+</additional>
