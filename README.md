@@ -28,12 +28,10 @@ Furthermore you should always load the WAUT mentioned in the config file because
 
 ## Simulation for Multiple Days
 
-In general, the model can be calibrated for any day between 08/2019 and 12/2023. For demonstration purposes, the traffic has been calibrated for 9 days representing 3 Mondays, Tuesdays and Sundays in summer 2023. For these days also public transport routes are available.
-You can start the simulation of each day by running the corresponding sumocfg-file.
+
 
 ## Contributing
 
-The simulation was created to provide a realistic multi-modal environment for traffic research. The model is under continuous development and issue reports and contributions are greatly appreciated. Feel free to get in touch with us by opening an [issue](https://github.com/TUM-VT/sumo_ingolstadt/issues) in the repository.
 
 
 ## Research
