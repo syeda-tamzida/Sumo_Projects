@@ -2,9 +2,7 @@
 
 # Signalized Intersection Design
 
-### Created in the SAVe:, SAVeNoW and KIVI research projects
-
-![Simulation](docs/simulation_view.png)
+![Simulation](intersection.PNG)
 
 
 ## Getting started
