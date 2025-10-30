@@ -1,4 +1,3 @@
-# Sumo_Projects
 
 # Signalized Intersection Design
 
